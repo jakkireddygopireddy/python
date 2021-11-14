@@ -1,0 +1,9 @@
+import os 
+list1=[2,1,4,3,7,9]
+list1.reverse()
+print("reverse list:", list1)
+
+list2=[2,3,4,1,6,7,8]
+list2.sort()
+print("sort list:", list2)
+
